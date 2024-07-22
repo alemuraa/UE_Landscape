@@ -36,24 +36,3 @@ This project involves developing a scene in Unreal Engine based on the provided 
 
 - Organize all elements within a single **Level Actor**, which will be configured as the opening map for the project.
 
-## Submission Instructions
-
-1. **Save and Compress:**
-   - Save your Unreal Engine project.
-   - Compress the project folder into a zip file.
-
-2. **Upload:**
-   - Upload the zip file to **OneDrive** and generate a sharing link.
-
-3. **Submit:**
-   - Copy the sharing link into a text file.
-   - Upload the text file with the link to the designated section on **Aulaweb**.
-
-## Deadline
-
-- **December 15**. This deadline provides flexibility for those who may not attend synchronously or prefer to focus on guided lectures.
-
-## Additional Notes
-
-- Ensure all elements are properly integrated and functional before submission.
-- Refer to the provided tutorials and lectures for detailed guidance on each requirement.
