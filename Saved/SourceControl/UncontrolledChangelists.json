@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vm_admin/Documents/Unreal Projects/Final_project/Content/CesiumSettings/CesiumIonServers/CesiumIonSaaS.uasset",
+				"C:/Users/vm_admin/Documents/Unreal Projects/Final_project/Content/NewMap_final_project.umap"
+			]
+		}
+	]
+}
